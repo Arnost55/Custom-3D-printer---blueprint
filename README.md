@@ -10,6 +10,9 @@ Parts are ordered. Hopefully it is done by 1st of january.
 Total spent: 302€ (By now)
  
 
+
+
+
 # Parts Used:
  
 
@@ -38,8 +41,8 @@ Total spent: 302€ (By now)
 
 # Tutorial
  
-Still not but working on it....
- 
+1. order the parts
+2. ....
 
 # TO DO:
  
