@@ -50,7 +50,7 @@ Total spent: 302€ (By now)
 - [x] Order Parts
  
 
-- [ ] Make a high resolution 3D model, CAD
+- [x] Make a high resolution 3D model, CAD
  
 
 - [ ] Assemble
