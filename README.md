@@ -60,8 +60,7 @@ Total spent: 302€ (By now)
 | TOTAL: |  |  |  | 384.64 |
 # Tutorial
  
-1. order the parts
-2. ....
+Comming this week
 
 # TO DO:
  
@@ -72,13 +71,13 @@ Total spent: 302€ (By now)
 - [x] Make a high resolution 3D model, CAD
  
 
-- [ ] Assemble
+- [x] Assemble
  
 
-- [ ] Make endstops
+- [x] Make endstops
  
 
-- [ ] Install klipper
+- [x] Install klipper
  
 
 - [ ] Calibrate
