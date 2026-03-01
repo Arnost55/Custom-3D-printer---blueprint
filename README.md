@@ -1,45 +1,30 @@
-# Custom-3D-printer---blueprint guide
- 
+# Untitled
+
+# Custom-3D-printer—blueprint guide
 
 Custom 3D printer with klipper and Lan capabilities
- 
+
 Making it with the BTT Manta E3EZ v1.0
- 
+
 Parts are ordered. Hopefully it is done by 1st of january.
- 
-Total spent: 302€ (By now)
- 
 
-
-
+Total spent: 352€ (By now)
 
 # Parts Used:
- 
 
-*   Mainboard: BTT Manta E3EZ v1.0 with CB1.2
-     
-*   Display: BTT TFT35 SPI V2.1
-     
-*   Motors and accessories for them: BIQU Nema17 (3pcs); Flexible shaft coupler 5\*8 (4pcs); GT2 timing pulling teeth (10pcs); 10 m belt;
-     
-*   Probe: BTT EDDY
-     
-*   Extruder: BIQU H2 V2S Lite extruder
-     
-*   PSU: MEANWELL 300W psu
-     
-*   BED: MK3 hotbed 220×220mm
-     
-*   Z axis bolt: T8 Lead screw (2pcs)
-     
-*   Moving parts: Linear rails (3pcs)
-     
-*   Cables(connectors)
-     
-*   Body: making it in my grandpa's steel garage
-     
+- Mainboard: BTT Manta E3EZ v1.0 with CB1.2
+- Display: BTT TFT35 SPI V2.1
+- Motors and accessories for them: BIQU Nema17 (3pcs); Flexible shaft coupler 5*8 (4pcs); GT2 timing pulling teeth (10pcs); 10 m belt;
+- Probe: BTT EDDY
+- Extruder: BIQU H2 V2S Lite extruder
+- PSU: MEANWELL 300W psu
+- BED: MK3 hotbed 220×220mm
+- Z axis bolt: T8 Lead screw (2pcs)
+- Moving parts: Linear rails (3pcs)
+- Cables(connectors)
+- Body: making it in my grandpa’s steel garage
+
 # BOM (bill of materials)
-# Untitled
 
 | Item Description | SKU | Qty | Unit Price (USD) | Total (USD) |
 | --- | --- | --- | --- | --- |
@@ -50,40 +35,34 @@ Total spent: 302€ (By now)
 | [BIGTREETECH Eddy Duo (Support USB or CAN)](https://biqu.equipment/products/bigtreetech-eddy?variant=41018205438050) | 1060000710 | 1 | $19.64 | 19.64 |
 | [Flexible shaft Coupler 58mm (58/Black/4pcs)](https://biqu.equipment/products/3d-printer-stepper-motor-flexible-coupling-coupler-shaft-couplings-5mm-8mm-25mm-flexible-shaft-freeshipping-1?variant=13488032252002) | 3010050224*4 | 1 | $6.64 | 6.64 |
 | [BIGTREETECH TFT35 SPI V2.1 Touch Screen for CB1](https://biqu.equipment/collections/lcd-screen/products/bigtreetech-tft35-spi-v2-1-touchscreen-io2can-module) | 1040000035 | 1 | $14.29 | 14.29 |
-| [BIGTREETECH Manta E3EZ V1.0 + 5pcs EZ2209 + CB1 V2.2](https://biqu.equipment/products/bigtreetech-manta-e3ez-v1-0-for-ender3-ender3pro-ender5?variant=40214245081186) | 1020000405+... | 1 | $58.90 | 58.9 |
+| [BIGTREETECH Manta E3EZ V1.0 + 5pcs EZ2209 + CB1 V2.2](https://biqu.equipment/products/bigtreetech-manta-e3ez-v1-0-for-ender3-ender3pro-ender5?variant=40214245081186) | 1020000405+… | 1 | $58.90 | 58.9 |
 | [Wires](https://www.aliexpress.com/item/1005006801644262.html?spm=a2g0o.order_list.order_list_main.5.73a21802GiWhg9) | _____ | 4 | _____ | 13.58 |
 | [T8 Lead Screw THSL-300-8D Trapezoidal Rod](https://www.aliexpress.com/item/1005003312523975.html?spm=a2g0o.order_list.order_list_main.36.73a21802GiWhg9) | _____ | 2 | $7.04 | 7.04 |
 | [Meanwell PSU 350W](https://www.aliexpress.com/item/1005006092154615.html?spm=a2g0o.order_list.order_list_main.42.73a21802GiWhg9) | _____ | 1 | $40.34 | 40.34 |
 | [Linear Rails](https://www.aliexpress.com/item/1005009577277063.html?spm=a2g0o.order_list.order_list_main.30.73a21802GiWhg9) | _____ | 3 | $18.81 | 56.43 |
 | [Heat bed 235x235](https://www.aliexpress.com/item/1005007288279620.html?spm=a2g0o.order_list.order_list_main.11.73a21802GiWhg9) | _____ | 1 | $22.64 | 22.64 |
-| Steel --- from my grandpas garage | _____ | _____ | _____ | 35 |
-| TOTAL: |  |  |  | 384.64 |
+| Steel — from my grandpas garage | _____ | _____ | _____ | not yet defined |
+| TOTAL: |  |  |  | 354.64 |
+
 # Tutorial
- 
-Comming this week
+
+1. Buy everything that you need for this project.
+2. Make the whole body according to the messuraments of the 3D model of the printer
+3. route the cables according to the wiring diagram
+4. more coming soon…
+
+## Wiring diagram:
+
+![Wiring diagram for the printer.png](https://github.com/Arnost55/Custom-3D-printer---blueprint/blob/main/Hardware/Wiring%20diagram%20for%20the%20printer.png)
 
 # TO DO:
- 
 
-- [x] Order Parts
- 
-
-- [x] Make a high resolution 3D model, CAD
- 
-
-- [x] Assemble
- 
-
-- [x] Make endstops
- 
-
-- [x] Install klipper
- 
-
-- [ ] Calibrate
- 
-
-- [ ] Ship it to blueprint
- 
-
-- [x] GOOD VIBES, FUN
+- [x]  Order Parts
+- [x]  Make a high resolution 3D model, CAD
+- [x]  Assemble
+- [x]  Make endstops
+- [x]  Install klipper
+- [ ]  Calibrate
+- [ ]  Ship it to blueprint
+- [x]  GOOD VIBES, FUN
+- [ ]  Publish config files
