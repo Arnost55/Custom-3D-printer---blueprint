@@ -1,5 +1,3 @@
-# README
-
 # Custom-3D-printer—blueprint guide
 
 Custom 3D printer with klipper and Lan capabilities
