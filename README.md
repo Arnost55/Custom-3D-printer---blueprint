@@ -287,7 +287,7 @@ Calibration is not a one-time thing. You work through each step, print a test, m
 > 
 
 > video of the printer running at max acceleration
-> ![](https://github.com/Arnost55/Custom-3D-printer---blueprint/raw/refs/heads/main/Photos%20&%20Videos/Frame%20showoff.mp4)
+> ![test](https://github.com/Arnost55/Custom-3D-printer---blueprint/raw/refs/heads/main/Photos%20&%20Videos/Frame%20showoff.mp4)
 
 ## Wiring diagram
 
