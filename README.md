@@ -277,7 +277,7 @@ Calibration is not a one-time thing. You work through each step, print a test, m
 > Printer IRL
 > 
 > 
-> ![20260214_110800.jpg]([attachment:1372ae00-4db8-44d0-928f-ba7feffc5928:20260214_110800.jpg](https://github.com/Arnost55/Custom-3D-printer---blueprint/blob/main/Photos%20&%20Videos/20260214_110800.jpg?raw=true))
+> ![20260214_110800.jpg](https://github.com/Arnost55/Custom-3D-printer---blueprint/blob/main/Photos%20&%20Videos/20260214_110800.jpg?raw=true)
 > 
 > ![20260214_110807.jpg](https://github.com/Arnost55/Custom-3D-printer---blueprint/blob/main/Photos%20&%20Videos/20260214_110807.jpg?raw=true)
 > 
@@ -287,7 +287,7 @@ Calibration is not a one-time thing. You work through each step, print a test, m
 > 
 
 > video of the printer running at max acceleration
-> 
+> ![](https://github.com/Arnost55/Custom-3D-printer---blueprint/raw/refs/heads/main/Photos%20&%20Videos/Frame%20showoff.mp4)
 
 ## Wiring diagram
 
