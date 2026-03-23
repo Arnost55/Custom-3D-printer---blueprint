@@ -5,7 +5,7 @@
   <p display="inline">
   
   <a href="https://creativecommons.org/licenses/by-nc/4.0/">
-    <img src="https://licensebuttons.net/l/by-nc/4.0/88x31.png" alt="Creative Commons Attribution-NonCommercial 4.0 International License"></a> <a href="https://hackclub.com/highway">
+    <img src="https://licensebuttons.net/l/by-nc/4.0/88x31.png" alt="Creative Commons Attribution-NonCommercial 4.0 International License"></a> <a href="https://hackclub.com/">
     <img alt="Funded by Hack Club" src="https://img.shields.io/badge/Hack_Club-Funded-ec3750?style=for-the-badge&logo=hackclub&logoColor=ec3750"></img>
   </a>
 
@@ -265,25 +265,25 @@ Calibration is not a one-time thing. You work through each step, print a test, m
 > CAD
 > 
 > 
-> ![Screenshot 2026-03-22 175751.png](attachment:6e6eb958-ce9c-42e2-ad19-c10e5b735b73:Screenshot_2026-03-22_175751.png)
+> ![Screenshot 2026-03-22 175751.png](https://github.com/Arnost55/Custom-3D-printer---blueprint/blob/main/Photos%20&%20Videos/Screenshot%202026-03-22%20175751.png?raw=true)
 > 
-> ![Screenshot 2026-03-22 175859.png](attachment:0b78e760-0908-452c-8a53-72b38afe5434:Screenshot_2026-03-22_175859.png)
+> ![Screenshot 2026-03-22 175859.png](https://github.com/Arnost55/Custom-3D-printer---blueprint/blob/main/Photos%20&%20Videos/Screenshot%202026-03-22%20175859.png?raw=true)
 > 
-> ![Screenshot 2026-03-22 175927.png](attachment:63c002a4-ee9d-4864-824d-8e7d5becf7f1:Screenshot_2026-03-22_175927.png)
+> ![Screenshot 2026-03-22 175927.png](https://github.com/Arnost55/Custom-3D-printer---blueprint/blob/main/Photos%20&%20Videos/Screenshot%202026-03-22%20175927.png?raw=true)
 > 
-> ![Screenshot 2026-03-22 175943.png](attachment:7c9cb69c-999a-4a49-a67b-6906fd49bc5f:Screenshot_2026-03-22_175943.png)
+> ![Screenshot 2026-03-22 175943.png](https://github.com/Arnost55/Custom-3D-printer---blueprint/blob/main/Photos%20&%20Videos/Screenshot%202026-03-22%20175943.png?raw=true)
 > 
 
 > Printer IRL
 > 
 > 
-> ![20260214_110800.jpg](attachment:1372ae00-4db8-44d0-928f-ba7feffc5928:20260214_110800.jpg)
+> ![20260214_110800.jpg]([attachment:1372ae00-4db8-44d0-928f-ba7feffc5928:20260214_110800.jpg](https://github.com/Arnost55/Custom-3D-printer---blueprint/blob/main/Photos%20&%20Videos/20260214_110800.jpg?raw=true))
 > 
-> ![20260214_110807.jpg](attachment:78b751cd-fb89-494a-8c68-c987b786a98c:20260214_110807.jpg)
+> ![20260214_110807.jpg](https://github.com/Arnost55/Custom-3D-printer---blueprint/blob/main/Photos%20&%20Videos/20260214_110807.jpg?raw=true)
 > 
-> ![20260214_110838.jpg](attachment:e7e5f726-45d8-4ee5-9042-06612c6cfc8e:20260214_110838.jpg)
+> ![20260214_110838.jpg](https://github.com/Arnost55/Custom-3D-printer---blueprint/blob/main/Photos%20&%20Videos/20260214_110838.jpg?raw=true)
 > 
-> ![20260214_120433.jpg](attachment:cb702288-2289-46c7-b1ae-4c6881e13a4e:20260214_120433.jpg)
+> ![20260214_120433.jpg]()
 > 
 
 > video of the printer running at max acceleration
